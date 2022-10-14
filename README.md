@@ -1,6 +1,6 @@
 # DinoAI
 AI that plays google-chrome dino game. Using basic OpenCV image annotation and template matching.
-This is my first Open-Source AI project so feel free to suggest new feautures.
+This is my 1st Open-Source AI project so feel free to suggest new feautures.
 # Updates Log
 - [x] Clear the code
 - [x] Add image annotation to display pixel value
