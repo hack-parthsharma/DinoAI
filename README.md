@@ -22,7 +22,7 @@ pip install -r requirements.txt
 # Usage
 You will need to edit the script for your own needs. The values that you need to change, are listed in the comments located at the top of the script.\
 (**After the AI is completed, I will probably add argparse to the script to make the customization easier for the users.**)\
-After customizing the dino.py file, you are ready to run the bot! 
+After customizing the dino.py file, are you ready to run the bot! 
 ```
 python dino.py
 ```
